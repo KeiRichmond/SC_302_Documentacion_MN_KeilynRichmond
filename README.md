@@ -1,1 +1,1 @@
-# SC_302_Documentacion_MN_KeilynRichmond
+# SC_302_Documentacion_MN_KeilynRichmond Esta es mi primera práctica con GitHub 
